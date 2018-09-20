@@ -1,0 +1,140 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "2g4j0LKpz8IXCaIg/v3iMaFMSpo=",
+			"path": "github.com/gin-contrib/sessions",
+			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
+			"revisionTime": "2018-08-27T02:54:25Z"
+		},
+		{
+			"checksumSHA1": "+/+XoQRJkpoc5pnwbBNR6u1pnZE=",
+			"path": "github.com/gin-contrib/sessions/mongo",
+			"revision": "58cbcf30135cc04c55e4499757142265d58e62d6",
+			"revisionTime": "2018-08-27T02:54:25Z"
+		},
+		{
+			"checksumSHA1": "BhMowD2DIKSd9qq8Pzh7Y3mh2/w=",
+			"path": "github.com/gin-contrib/sse",
+			"revision": "22d885f9ecc78bf4ee5d72b937e4bbcdc58e8cae",
+			"revisionTime": "2017-01-09T09:34:21Z"
+		},
+		{
+			"checksumSHA1": "G7NWqjwYKY2Y5ceg92g2g4fbPMw=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "0da5b0c85ac2539e775a7e63aebf3e0b5808dab4",
+			"revisionTime": "2018-08-21T05:29:25Z"
+		},
+		{
+			"checksumSHA1": "2hDXxk/xZ3qn96eAaimalbTUqyk=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "0da5b0c85ac2539e775a7e63aebf3e0b5808dab4",
+			"revisionTime": "2018-08-21T05:29:25Z"
+		},
+		{
+			"checksumSHA1": "HJZduEPx5UL21WAsGyGc0FhTS40=",
+			"path": "github.com/gin-gonic/gin/json",
+			"revision": "0da5b0c85ac2539e775a7e63aebf3e0b5808dab4",
+			"revisionTime": "2018-08-21T05:29:25Z"
+		},
+		{
+			"checksumSHA1": "/+hpsZnzk/gZAGz9Ndg+ixHCR+Q=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "0da5b0c85ac2539e775a7e63aebf3e0b5808dab4",
+			"revisionTime": "2018-08-21T05:29:25Z"
+		},
+		{
+			"checksumSHA1": "0j/uJco81D4dxdFhL2BBusXndZE=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "b27b920f9e71b439b873b17bf99f56467623814a",
+			"revisionTime": "2018-08-21T05:17:52Z"
+		},
+		{
+			"checksumSHA1": "g/V4qrXjUGG9B+e3hB+4NAYJ5Gs=",
+			"path": "github.com/gorilla/context",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "v7UN77e2H7nOU9Z+iQmGFddysws=",
+			"path": "github.com/gorilla/securecookie",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "2dzpZJQiWTgWPYrQ4PXWTeWcHfg=",
+			"path": "github.com/gorilla/sessions",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "vIKXyNJv+WZir0MrYoUVchKd8IY=",
+			"path": "github.com/joho/godotenv",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "6ZVvq9gdocZXtsQpVPcQWWmZIf8=",
+			"path": "github.com/joho/godotenv/autoload",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "F8Gtx+X6tgnjbZQCHIImnwMX0d4=",
+			"path": "github.com/kidstuff/mongostore",
+			"revision": "db2a8b4fac1f737c75e7fb84cb3fdb07dfc8fbc9",
+			"revisionTime": "2018-04-12T08:51:34Z"
+		},
+		{
+			"checksumSHA1": "LkbotKu3JQxXEZZ9P40yhnFOycY=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "3fb116b820352b7f0c281308a4d6250c22d94e27",
+			"revisionTime": "2018-08-30T10:17:45Z"
+		},
+		{
+			"checksumSHA1": "nTHyEY0AoEGpzD+0hNSLavmhVsk=",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "00b869d2f4a5e27445c2d916fa106fc72c106d4c",
+			"revisionTime": "2018-08-13T09:23:08Z"
+		},
+		{
+			"checksumSHA1": "q190bL03wQok3wVwYmMub2XhOiU=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f1438d3fca68893a817e4a66806cea46a9e4ebf",
+			"revisionTime": "2017-07-30T05:02:35Z"
+		},
+		{
+			"checksumSHA1": "QS15F7XdFG6tSDF3LfAZJTEgbK8=",
+			"path": "gopkg.in/mgo.v2",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "Np/IH5aN4KNgY+8MBEYV2ewgExI=",
+			"path": "gopkg.in/mgo.v2/bson",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "9tMleZvl/yjpkj7oO3pOfZc+MJw=",
+			"path": "gopkg.in/mgo.v2/internal/json",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "WnXjUmdgl3mTwwqYBxbO974iCe8=",
+			"path": "gopkg.in/mgo.v2/internal/sasl",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "CrciG7woshiINwZxPsxisgDGL3Y=",
+			"path": "gopkg.in/mgo.v2/internal/scram",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "d3jYBfW+YmOxsa5o8m6XyywVbIo=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
+			"revisionTime": "2018-03-28T19:50:20Z"
+		}
+	],
+	"rootPath": "blog"
+}
