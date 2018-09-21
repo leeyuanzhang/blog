@@ -1,0 +1,89 @@
+.component {
+    position: absolute;
+    width: 200px;
+    left: 120px;
+    top: 16px;
+}
+
+.header .layui-nav {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 0;
+}
+
+.nav-bg {
+    height: 100%;
+    background-size: cover;
+}
+
+.logo {
+    position: absolute;
+    top: 16px;
+    left: 40px;
+}
+
+.logo img {
+    height: 32px;
+    overflow: hidden;
+}
+
+.layui-nav {
+    background: none;
+}
+
+.layui-nav .layui-nav-item a {
+    color: rgba(88, 74, 74, 1)
+}
+
+.layui-nav .layui-nav-item a:hover, .layui-nav .layui-this a {
+    color: rgba(0, 0, 0, 1)
+}
+
+.layui-input {
+    background-color: rgba(255, 255, 255, 0.01);
+}
+
+.motto-box {
+
+}
+
+.motto {
+    color: #000000;
+    font-size: 20px;
+    margin: 140px 25% 0;
+    width: 50%;
+    line-height: 1.4;
+    font-family: "KaiTi", "STXingkai", "Source Sans Pro", "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif;
+    text-align: center;
+}
+
+.page-container {
+    padding-top: 60px;
+}
+
+.blog-fixed {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.blog-entry-img, .blog-entry-text {
+    width: 50%;
+}
+
+.blog-entry-img img {
+    width: 100%;
+}
+
+.blog-entry-img-left {
+    float: left;
+}
+
+.blog-entry-img-right {
+    float: right;
+}
+
+.continue-read {
+    padding: 0.5rem 1rem;
+    float: right;
+}

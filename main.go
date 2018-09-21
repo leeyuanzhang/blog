@@ -22,7 +22,7 @@ func loadMiddlewares(r *gin.Engine) {
 	r.Use(gin.Recovery())
 
 	r.Static("/assets", "./assets")
-	r.LoadHTMLGlob("templates/**/*")
+	r.LoadHTMLGlob("templates/**/**/*")
 
 	// session
 	store := mongo.NewStore(db.Sessions, 3600, true, []byte("secret"))
