@@ -26,8 +26,8 @@
     </div>
     <div class="motto-box">
         <p class="motto">
-            无论你怎么与他人控制距离，你依然会失去控制，因为这个世界上总有人能让你乖乖交心和伤心。<br>
-            - <br>韩寒《告白与告别》</p>
+        {{.Mooto}}<br>
+            - <br>{{.MootoName}}</p>
     </div>
 </div>
 
@@ -51,6 +51,7 @@
             height: $(window).height() + "px",
         });
 
+        var mottoPostion = (($(window).height() - 60) - $(".motto").height()) / 3;
         $(".motto").css({
             margin: mottoPostion + "px 25% 0"
         })
