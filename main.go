@@ -31,5 +31,6 @@ func loadMiddlewares(r *gin.Engine) {
 
 func loadRouters(r *gin.Engine) {
 	r.GET("", routes.Index)
+	r.GET("test", routes.Test)
 
 }
